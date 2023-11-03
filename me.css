@@ -1,0 +1,97 @@
+body {
+    background: rgb(0, 18, 107);
+    background: radial-gradient(circle, rgba(0, 18, 107, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: system-ui;
+    min-height: 100vh;
+}
+
+.me {
+    max-width: 1600px;
+    padding: 20px;
+    line-height: 1.6;
+    color: whitesmoke;
+    margin-right:90px;
+    margin-top:250px;
+    margin-left:200px;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius:10px;
+}
+.the-picture {
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 70px;
+    margin-top: 100px;
+    float: left;
+}
+.sba7{
+    margin-top:300px;
+    color: aliceblue;
+    margin-left:807px;
+    background-color: rgb(0, 66, 83);
+    padding-left:70px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    max-width:200px;
+    border-radius:50px;
+    transition: 0.30s;
+}
+.sba7:hover{
+    background-color: black;
+    color: rgb(148, 148, 148);
+}
+.insta_txt{
+    color: aliceblue;
+    margin-left:100px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    max-width:170px;
+    border-radius:10px;
+    cursor: pointer;
+}
+.insta_txt:hover{
+    background-color: black;
+    color: rgb(129, 129, 129);
+}
+.whatsapp_txt{
+    color: aliceblue;
+    margin-left: 100px;
+    margin-top:90px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    max-width:170px;
+    border-radius:10px;
+    cursor: pointer;
+}
+
+
+.whatsapp_txt:hover{
+    background-color: black;
+    color: rgb(129, 129, 129);
+
+}
+.gmail_txt{
+    color: aliceblue;
+    margin-top: 90px;
+    margin-left:100px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    max-width:340px;
+    border-radius:10px;
+    cursor: pointer;
+}
+
+.gmail_txt:hover{
+    background-color: black;
+    color: rgb(129, 129, 129);
+}
